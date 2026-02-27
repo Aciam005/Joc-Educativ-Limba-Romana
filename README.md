@@ -1,10 +1,11 @@
-**Titlu Proiect: Joc Educativ 2D - Limba Română**
+**Project Title: 2D Educational Game – Romanian Language**
 
-**Descriere:**
-Am dezvoltat un joc video 2D de tip platformer cu scop educațional, utilizând motorul grafic Unity și limbajul C#. Proiectul integrează mecanici clasice de joc cu elemente didactice pentru a facilita învățarea limbii române.
+**Description:**
+I developed a 2D platformer video game for educational purposes, using the Unity game engine and the C# language. The project integrates classic game mechanics with didactic elements to facilitate Romanian language learning.
 
-**Responsabilități și Realizări Tehnice:**
-*   **Arhitectură și Gameplay:** Am implementat sistemul de control al jucătorului (movement, jump, physics-based interactions) și mecanici de combat (sistem de viață, damage, knockback).
-*   **Inteligență Artificială (AI):** Am dezvoltat comportamente pentru inamici (patrulare, detectare jucător) utilizând mașini de stări finite.
-*   **Sisteme Interactive:** Am integrat un sistem de dialog complex pentru interacțiunea cu NPC-uri și un sistem de UI pentru afișarea scorului și a vieții.
-*   **Optimizare și Structură:** Am utilizat o structură modulară a codului, separând logica de input, mișcare și datele de joc (HealthMaster, ScoreKeeper).
+**Responsibilities and Technical Achievements:**
+
+* **Architecture and Gameplay:** Implemented the player control system (movement, jump, physics-based interactions) and combat mechanics (health system, damage, knockback).
+* **Artificial Intelligence (AI):** Developed enemy behaviors (patrolling, player detection) using finite state machines.
+* **Interactive Systems:** Integrated a complex dialogue system for NPC interaction and a UI system for displaying scores and health.
+* **Optimization and Structure:** Utilized a modular code structure, separating input logic, movement, and game data (HealthMaster, ScoreKeeper).
